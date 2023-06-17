@@ -1,0 +1,17 @@
+/home/pi/blink/obj/Debug/net7.0/blink.csproj.AssemblyReference.cache
+/home/pi/blink/obj/Debug/net7.0/blink.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/blink/obj/Debug/net7.0/blink.AssemblyInfoInputs.cache
+/home/pi/blink/obj/Debug/net7.0/blink.AssemblyInfo.cs
+/home/pi/blink/obj/Debug/net7.0/blink.csproj.CoreCompileInputs.cache
+/home/pi/blink/bin/Debug/net7.0/blink
+/home/pi/blink/bin/Debug/net7.0/blink.deps.json
+/home/pi/blink/bin/Debug/net7.0/blink.runtimeconfig.json
+/home/pi/blink/bin/Debug/net7.0/blink.dll
+/home/pi/blink/bin/Debug/net7.0/blink.pdb
+/home/pi/blink/bin/Debug/net7.0/System.Device.Gpio.dll
+/home/pi/blink/obj/Debug/net7.0/blink.csproj.CopyComplete
+/home/pi/blink/obj/Debug/net7.0/blink.dll
+/home/pi/blink/obj/Debug/net7.0/refint/blink.dll
+/home/pi/blink/obj/Debug/net7.0/blink.pdb
+/home/pi/blink/obj/Debug/net7.0/blink.genruntimeconfig.cache
+/home/pi/blink/obj/Debug/net7.0/ref/blink.dll
